@@ -33,7 +33,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-Calculadora-IMC.git
 
 </h1>
 
-## Resultado em Fotos:
+## 📷 Resultado em Fotos:
 
 <h1 align="center">
 
