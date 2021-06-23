@@ -24,7 +24,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-Calculadora-IMC.git
 #Parte 2: Depois so executar no emulador ou no seu celular!
 
 ```
-### Resultado do Design:
+### 🖍📐 Resultado do Design:
 
 <h1 align="center">
 
