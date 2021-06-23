@@ -2,6 +2,10 @@
 
 ## É um Aplicativo que calcula o peso e altura da pessoa.
 
+### Resultado do Design:
+
+<img src="https://user-images.githubusercontent.com/53570115/123141885-3ef92980-d42f-11eb-9b5f-d7be5bca4b1e.gif" width="300"/>
+
 ## :rocket: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
