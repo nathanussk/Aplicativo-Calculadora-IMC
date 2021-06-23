@@ -24,7 +24,7 @@ $ git clone https://github.com/nathanussk/Aplicativo-Calculadora-IMC.git
 
 <h1 align="center">
 
-<img src="https://user-images.githubusercontent.com/53570115/123141436-c4300e80-d42e-11eb-8b00-8a3874aeec89.png"
+<img src="https://user-images.githubusercontent.com/53570115/123141763-1bce7a00-d42f-11eb-9933-d40e905d96a3.png"
     height="400">
 
 </h1>
