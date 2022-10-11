@@ -19,9 +19,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 #Parte 1: Clone o repositório para sua máquina local e importe para o Android Studio,
+
 $ git clone https://github.com/nathanussk/Aplicativo-Calculadora-IMC.git
+
 #Parte 2: Depois so executar no emulador ou no seu celular!
+
 ```
+
 ## 🖍📐 Resultado do Design:
 
 <h1 align="center">
